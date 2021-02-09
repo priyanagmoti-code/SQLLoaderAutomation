@@ -1,0 +1,7 @@
+id,group
+01,group1
+02,group2
+03,group2
+04,group3
+05,group3
+06,group4

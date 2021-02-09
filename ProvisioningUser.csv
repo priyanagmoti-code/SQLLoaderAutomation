@@ -1,0 +1,8 @@
+id,name,status,email,Role,DOB
+01,TestUSer,Active,test@testmail.com,QA,1Jan
+02,TestUser2,Active,test@testmail.com,DEV,1Jan
+03,TestUser3,Active,test@testmail.com,HR,1Jan
+03,TestUser3,Delete,test@testmail.com,QA,1Jan
+04,TestUser4,Active,test@testmail.com,HR,1Jan
+05,TestUser5,Disable,test@testmail.com,DEV,1Jan
+06,TestUser6,Disable,test@testmail.com,QA,1Jan
