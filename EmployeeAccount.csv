@@ -1,0 +1,10 @@
+employeeId,firstName,lastName,fullName,deptName,city,state
+'2019001,"'Tames",Tmith,"Tames Tmith",HR,pune,DL
+2019002,Tatricia,Tones,"Tatricia Tones",QA,,
+2019003,Tinda,Trown,"Tobert Trown",DEV,,
+'2019004,Tobert,Tavis,"Tinda Tavis",DEV,,
+2019005,Smith,Baker,"Smith Baker",QA,,
+2019006,Rabbott,Jones,"Rabbott Jones",IT,,
+2019007,Christian,Germany,"Christian Germany",FINANCE,mumbai,MH
+
+
